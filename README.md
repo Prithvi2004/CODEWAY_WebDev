@@ -7,7 +7,7 @@ This project is a simple yet functional calculator built using HTML, CSS, and Ja
 
 Landing Page
 
-The landing page project is designed to create a visually appealing and informative entry point for a website or product. It utilizes modern web development techniques including HTML5, CSS3, and possibly frameworks like Bootstrap or Tailwind CSS to ensure responsiveness and aesthetic appeal across devices.
+The landing page project is designed to create a visually appealing and informative entry point for a website or product. It utilizes modern web development techniques including HTML5, CSS3.
 
 Portfolio
 
